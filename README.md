@@ -1,15 +1,37 @@
-# 👋 Welcome to Arava's GitHub Profile  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:FF5733,100:ff0000&text=Arava's%20page%20👋&fontAlign=50&animation=fadeIn&fontSize=75&fontAlignY=35">
+</p>
 
-### About Me  
-Hi, I'm **Arava**, a passionate developer with a strong interest in backend development. I spent two years at Epitech before continuing my journey as a self-taught developer. My primary focus is on building efficient and well-structured backend systems, but I occasionally explore other areas of software development.  
+# Who am I ? 
+Hey, I'm a passionate developer with a strong interest in backend development. I spent two years at the French IT Epitech school before continuing my journey as a self-taught developer. My primary focus is on building efficient and well-structured backend systems, but I occasionally explore other areas of software development.  
 
 ---
 
-### 🛠️ Skills & Technologies  
-Here are the tools and technologies I use:  
-- **Programming Languages**: C, C++, Python, HTML, CSS, and some Java (for occasional Minecraft projects)  
-- **Frameworks & Tools**: Node.js (backend), Bootstrap  
-- **Focus Areas**: Backend development  
+### **🛠️ Skills & Technologies**  
+#### > **👨‍💻 Languages & Runtime**  
+- JavaScript (JS), TypeScript (TS), C, C++, Python, Java (Minecraft projects)  
+- HTML, CSS  
+- Node.js, Deno  
+
+#### > **⚙️ Backend & Databases**  
+- Express.js (API & server-side)  
+- PostgreSQL (SQL) & Redis (NoSQL/caching)  
+- Sequelize (ORM)  
+- WebSockets (real-time communication)  
+
+#### > **📦 DevOps & Infrastructure**  
+- Docker (containerization)  
+- Nginx, Apache (web servers)  
+- PM2 (process manager)  
+- CI/CD pipelines  
+
+#### > **🛠️ Tools & Workflow**  
+- Git & GitHub (version control)  
+- Bootstrap (front-end styling)  
+
+#### > **🤖 APIs & Bots**
+- Discord.js (Discord bot)
+- Mineflayer (Minecraft bot)
 
 ---
 
@@ -25,7 +47,7 @@ If you’re interested in collaborating or just want to connect, feel free to re
 ---
 
 ### 🚀 Top project  
-- [DiscordJS Bot Template](https://github.com/kdeboissy/DiscordBot-Template-V14)  
+- [DiscordJS Bot Template](https://github.com/Arava-0/DiscordBot-Template-V14)  
 - [Fluxify](https://github.com/StevenGandon/HUB-Fluxify)  
 
 ---

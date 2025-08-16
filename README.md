@@ -48,7 +48,6 @@ If you’re interested in collaborating or just want to connect, feel free to re
 
 ### 🚀 Top project  
 - [DiscordJS Bot Template](https://github.com/Arava-0/DiscordBot-Template-V14)  
-- [Fluxify](https://github.com/StevenGandon/HUB-Fluxify)  
 
 ---
 
